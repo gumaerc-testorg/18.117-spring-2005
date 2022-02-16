@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a8ce75da-f40b-c5f0-b927-1ad4605ebbcd
 ---
@@ -21,7 +24,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-Complex Variable Theory on Open Subsets of Cn
+Complex Variable Theory on Open Subsets of C{{< sup "n" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +165,7 @@ The Ricci Form and the Kaehler Einstein Equation ([PDF]({{< baseurl >}}/resource
 15
 {{< tdclose >}}
 {{< tdopen >}}
-The Fubini Study Metric on CPn ([PDF]({{< baseurl >}}/resources/18117_lec15))
+The Fubini Study Metric on CP{{< sup "n" >}} ([PDF]({{< baseurl >}}/resources/18117_lec15))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +180,7 @@ Elliptic Operators and Pseudo-differential Operators
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Differential Operators on Rn and Manifolds ([PDF]({{< baseurl >}}/resources/18117_lec16))
+Differential Operators on R{{< sup "n" >}} and Manifolds ([PDF]({{< baseurl >}}/resources/18117_lec16))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +198,7 @@ Smoothing Operators, Fourier Analysis on the n-torus ([PDF]({{< baseurl >}}/reso
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Pseudodifferential Operators on Tn and Open Subsets of Tn, Elliptic Operators on Compact Manifolds ([PDF]({{< baseurl >}}/resources/18117_lec18))
+Pseudodifferential Operators on T{{< sup "n" >}} and Open Subsets of T{{< sup "n" >}}, Elliptic Operators on Compact Manifolds ([PDF]({{< baseurl >}}/resources/18117_lec18))
 {{< tdclose >}}
 
 {{< trclose >}}

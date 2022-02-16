@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7ee8793a-3a00-477c-4c40-937279b5f542
 ---
@@ -38,7 +40,7 @@ Topics Covered
 
 There are five segments in this course, each involving about 6 to 8 lectures.
 
-1.  Complex variable theory on open subsets of Cn. Hartog, simply pseudoconvex domains, inhomogeneous C. R.
+1.  Complex variable theory on open subsets of C{{< sup "n" >}}. Hartog, simply pseudoconvex domains, inhomogeneous C. R.
 2.  Theory of complex manifolds, Kaehler manifolds.
 3.  Basic theorems about elliptic operators, pseudo-differential operators.
 4.  Hodge Theory on Kaehler manifolds.
