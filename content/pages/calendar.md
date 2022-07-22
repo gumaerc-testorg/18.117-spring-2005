@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The calendar section lists the lecture topics covered in the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 71397ce2-d4e0-3d05-60a5-d352f0881168
 ---
@@ -19,7 +22,7 @@ topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-Complex Variable Theory on Open Subsets of Cn
+Complex Variable Theory on Open Subsets of C{{< sup "n" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +167,7 @@ The Ricci Form and the Kaehler Einstein Equation
 15
 {{< tdclose >}}
 {{< tdopen >}}
-The Fubini Study Metric on CPn
+The Fubini Study Metric on CP{{< sup "n" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +182,7 @@ Elliptic Operators and Pseudo-differential Operators
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Differential Operators on Rn and Manifolds
+Differential Operators on R{{< sup "n" >}} and Manifolds
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +200,7 @@ Smoothing Operators, Fourier Analysis on the n-torus
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Pseudodifferential Operators on Tn and Open Subsets of Tn, Elliptic Operators on Compact Manifolds
+Pseudodifferential Operators on T{{< sup "n" >}} and Open Subsets of T{{< sup "n" >}}, Elliptic Operators on Compact Manifolds
 {{< tdclose >}}
 
 {{< trclose >}}

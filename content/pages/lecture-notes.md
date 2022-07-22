@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section consists of lecture topics covered in course along handouts.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a8ce75da-f40b-c5f0-b927-1ad4605ebbcd
 ---
 
-The lecture notes were prepared by Jonathan Campbell, a student in the class. They are available as a single file ([PDF - 1.4 MB]({{< baseurl >}}/resources/18117notes)) or mapped to the lecture topics below. The notes for lectures 16, 17, and 18 are from the Supplementary Notes on Elliptic Operators.
+The lecture notes were prepared by Jonathan Campbell, a student in the class. They are available as a single file ({{% resource_link 3e8b0c34-99d6-2269-5948-5ace042cdaab "PDF - 1.4 MB" %}}) or mapped to the lecture topics below. The notes for lectures 16, 17, and 18 are from the Supplementary Notes on Elliptic Operators.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -21,7 +25,7 @@ Topics
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-Complex Variable Theory on Open Subsets of Cn
+Complex Variable Theory on Open Subsets of C{{< sup "n" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -30,7 +34,7 @@ Complex Variable Theory on Open Subsets of Cn
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Functions of one Complex Variable, Cauchy Integral Formula, Taylor Series, Analytic Continuation ([PDF]({{< baseurl >}}/resources/18117_lec01))
+Functions of one Complex Variable, Cauchy Integral Formula, Taylor Series, Analytic Continuation ({{% resource_link c808ad2f-dc14-0290-b489-53482d8c39dc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,7 +43,7 @@ Functions of one Complex Variable, Cauchy Integral Formula, Taylor Series, Analy
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Cauchy Integral Formula (cont.), Inhomogeneous C.R. Equation, Riemann Equation in One Variable, Functions of Several Complex Variables ([PDF]({{< baseurl >}}/resources/18117_lec02))
+Cauchy Integral Formula (cont.), Inhomogeneous C.R. Equation, Riemann Equation in One Variable, Functions of Several Complex Variables ({{% resource_link cd941b5e-87be-056a-caa2-d26999b4bd68 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +52,7 @@ Cauchy Integral Formula (cont.), Inhomogeneous C.R. Equation, Riemann Equation 
 3
 {{< tdclose >}}
 {{< tdopen >}}
-The Inhomogeneous Cauchy-Riemann Equation in Several Variables, Hartog's Theorem ([PDF]({{< baseurl >}}/resources/18117_lec03))
+The Inhomogeneous Cauchy-Riemann Equation in Several Variables, Hartog's Theorem ({{% resource_link e5160ae1-a49f-fbf3-4859-59b1602004c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +61,7 @@ The Inhomogeneous Cauchy-Riemann Equation in Several Variables, Hartog's Theore
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Applying Hartog's Theorem, The Dolbeault Complex, Exactness of the Dolbeault Complex on Polydisks ([PDF]({{< baseurl >}}/resources/18117_lec04))
+Applying Hartog's Theorem, The Dolbeault Complex, Exactness of the Dolbeault Complex on Polydisks ({{% resource_link 7d0d08a1-99dd-e69c-878f-aab3bfbd4edc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +70,7 @@ Applying Hartog's Theorem, The Dolbeault Complex, Exactness of the Dolbeault Com
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Holomorphic Version of the Poincare Lemma ([PDF]({{< baseurl >}}/resources/18117_lec05))
+The Holomorphic Version of the Poincare Lemma ({{% resource_link 77ba02c3-f3eb-970b-8bfc-b0360f35f4be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +79,7 @@ The Holomorphic Version of the Poincare Lemma ([PDF]({{< baseurl >}}/resources/1
 6
 {{< tdclose >}}
 {{< tdopen >}}
-The Inverse Function Theorem and the Implicit Function Theorem for Holomorphic Mappings ([PDF]({{< baseurl >}}/resources/18117_lec06))
+The Inverse Function Theorem and the Implicit Function Theorem for Holomorphic Mappings ({{% resource_link db003362-1ebb-6218-44cf-a88a00647900 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +94,7 @@ Theory of Complex Manifolds, Kaehler Manifolds
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Complex Manifolds: Affine and Projective Varieties ([PDF]({{< baseurl >}}/resources/18117_lec07))
+Complex Manifolds: Affine and Projective Varieties ({{% resource_link 989bea2b-a425-45fe-bc28-30a2b5f59cf2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +103,7 @@ Complex Manifolds: Affine and Projective Varieties ([PDF]({{< baseurl >}}/resour
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Complex Manifolds: Affine and Projective Varieties (cont.) ([PDF]({{< baseurl >}}/resources/18117_lec08))
+Complex Manifolds: Affine and Projective Varieties (cont.) ({{% resource_link 626d4505-8e20-2e34-19b5-6714fb4c5ad2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +112,7 @@ Complex Manifolds: Affine and Projective Varieties (cont.) ([PDF]({{< baseurl >}
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Sheaf Theory and Sheaf Cohomology ([PDF]({{< baseurl >}}/resources/18117_lec09))
+Sheaf Theory and Sheaf Cohomology ({{% resource_link 248fc514-e61b-eb10-ea33-642006f43e24 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +121,7 @@ Sheaf Theory and Sheaf Cohomology ([PDF]({{< baseurl >}}/resources/18117_lec09))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-The DeRham Theorem for Acyclic Covers ([PDF]({{< baseurl >}}/resources/18117_lec10))
+The DeRham Theorem for Acyclic Covers ({{% resource_link ef9b153d-73ca-ff89-38c3-8b1733a6e6ff "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +130,7 @@ The DeRham Theorem for Acyclic Covers ([PDF]({{< baseurl >}}/resources/18117_lec
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Identification of Cech Cohomology Groups with the Cohomology Groups of the Dolbeault Complex ([PDF]({{< baseurl >}}/resources/18117_lec11))
+Identification of Cech Cohomology Groups with the Cohomology Groups of the Dolbeault Complex ({{% resource_link 8143d35c-100f-20a6-cd8a-4453480cc182 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +139,7 @@ Identification of Cech Cohomology Groups with the Cohomology Groups of the Dol
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Linear Aspects of Symplectic and Kaehler Geometry ([PDF]({{< baseurl >}}/resources/18117_lec12))
+Linear Aspects of Symplectic and Kaehler Geometry ({{% resource_link eae8f5fe-690b-1bc6-61d4-f7dabc24815b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +148,7 @@ Linear Aspects of Symplectic and Kaehler Geometry ([PDF]({{< baseurl >}}/resourc
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The Local Geometry of Kaehler Manifolds, Strictly Pluri-subharmonic Functions and Pseudoconvexity ([PDF]({{< baseurl >}}/resources/18117_lec13))
+The Local Geometry of Kaehler Manifolds, Strictly Pluri-subharmonic Functions and Pseudoconvexity ({{% resource_link bcef8dc4-cb95-b4a8-5d4f-12e91c5c3174 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +157,7 @@ The Local Geometry of Kaehler Manifolds, Strictly Pluri-subharmonic Functions an
 14
 {{< tdclose >}}
 {{< tdopen >}}
-The Ricci Form and the Kaehler Einstein Equation ([PDF]({{< baseurl >}}/resources/18117_lec14))
+The Ricci Form and the Kaehler Einstein Equation ({{% resource_link 24fbf135-44ad-d69c-b549-9f6a8d791c9d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +166,7 @@ The Ricci Form and the Kaehler Einstein Equation ([PDF]({{< baseurl >}}/resource
 15
 {{< tdclose >}}
 {{< tdopen >}}
-The Fubini Study Metric on CPn ([PDF]({{< baseurl >}}/resources/18117_lec15))
+The Fubini Study Metric on CP{{< sup "n" >}} ({{% resource_link b137e80d-b020-66cc-38ef-0c5249d3352c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +181,7 @@ Elliptic Operators and Pseudo-differential Operators
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Differential Operators on Rn and Manifolds ([PDF]({{< baseurl >}}/resources/18117_lec16))
+Differential Operators on R{{< sup "n" >}} and Manifolds ({{% resource_link 1edd0b0b-ffd4-0e3f-8844-b4e39aa0601a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +190,7 @@ Differential Operators on Rn and Manifolds ([PDF]({{< baseurl >}}/resources/1811
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Smoothing Operators, Fourier Analysis on the n-torus ([PDF]({{< baseurl >}}/resources/18117_lec17))
+Smoothing Operators, Fourier Analysis on the n-torus ({{% resource_link 07a99080-1f04-5fab-024d-59924fd0e406 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +199,7 @@ Smoothing Operators, Fourier Analysis on the n-torus ([PDF]({{< baseurl >}}/reso
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Pseudodifferential Operators on Tn and Open Subsets of Tn, Elliptic Operators on Compact Manifolds ([PDF]({{< baseurl >}}/resources/18117_lec18))
+Pseudodifferential Operators on T{{< sup "n" >}} and Open Subsets of T{{< sup "n" >}}, Elliptic Operators on Compact Manifolds ({{% resource_link 504a40b8-42f0-499a-e090-408f476dfc7a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +214,7 @@ Hodge Theory on Kaehler Manifolds
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Systems of Elliptic Operators and Elliptic Operators on Vector Bundles ([PDF]({{< baseurl >}}/resources/18117_lec19))
+Systems of Elliptic Operators and Elliptic Operators on Vector Bundles ({{% resource_link 90d35208-a888-089d-13e3-e5c058e9d0c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +223,7 @@ Systems of Elliptic Operators and Elliptic Operators on Vector Bundles ([PDF]({{
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Elliptic Complexes and Examples ([PDF]({{< baseurl >}}/resources/18117_lec20))
+Elliptic Complexes and Examples ({{% resource_link d211c3e8-49a2-6064-053c-851e1cee8068 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -228,7 +232,7 @@ Elliptic Complexes and Examples ([PDF]({{< baseurl >}}/resources/18117_lec20))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Hodge Theory, the \*-operator ([PDF]({{< baseurl >}}/resources/18117_lec21))
+Hodge Theory, the \*-operator ({{% resource_link c648e72f-1502-be19-e3a2-3a99bfd32e26 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +241,7 @@ Hodge Theory, the \*-operator ([PDF]({{< baseurl >}}/resources/18117_lec21))
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Computing the \*-operator ([PDF]({{< baseurl >}}/resources/18117_lec22))
+Computing the \*-operator ({{% resource_link 003cbaae-0cb9-0d7c-58b1-0bc23f71b21f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +250,7 @@ Computing the \*-operator ([PDF]({{< baseurl >}}/resources/18117_lec22))
 23
 {{< tdclose >}}
 {{< tdopen >}}
-The \*-operator in Kaehler Geometry ([PDF]({{< baseurl >}}/resources/18117_lec23))
+The \*-operator in Kaehler Geometry ({{% resource_link 0c74ff16-10af-46a6-4260-b17dd0ac8dee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +259,7 @@ The \*-operator in Kaehler Geometry ([PDF]({{< baseurl >}}/resources/18117_lec23
 24
 {{< tdclose >}}
 {{< tdopen >}}
-The \*-operator in Kaehler Geometry (cont.) ([PDF]({{< baseurl >}}/resources/18117_lec24))
+The \*-operator in Kaehler Geometry (cont.) ({{% resource_link c29bbc80-d843-9a72-beaf-3d571e496c55 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +268,7 @@ The \*-operator in Kaehler Geometry (cont.) ([PDF]({{< baseurl >}}/resources/181
 25
 {{< tdclose >}}
 {{< tdopen >}}
-The Symplectic Version of the Hodge Theory ([PDF]({{< baseurl >}}/resources/18117_lec25))
+The Symplectic Version of the Hodge Theory ({{% resource_link d19c00cc-2dcc-b02a-1157-9e1f50ef67e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +277,7 @@ The Symplectic Version of the Hodge Theory ([PDF]({{< baseurl >}}/resources/1811
 26
 {{< tdclose >}}
 {{< tdopen >}}
-The Symplectic Version of the Hodge Theory (cont.) ([PDF]({{< baseurl >}}/resources/18117_lec26))
+The Symplectic Version of the Hodge Theory (cont.) ({{% resource_link 8e833d86-ba4d-74dc-fad5-ec67260d6fea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +286,7 @@ The Symplectic Version of the Hodge Theory (cont.) ([PDF]({{< baseurl >}}/resour
 27
 {{< tdclose >}}
 {{< tdopen >}}
-The Brylinski Conjecture and the Hard Lefchetz Theorem, Hodge Theory on Riemannian Manifolds ([PDF]({{< baseurl >}}/resources/18117_lec27))
+The Brylinski Conjecture and the Hard Lefchetz Theorem, Hodge Theory on Riemannian Manifolds ({{% resource_link a1ba0378-9126-0329-c1f8-ba84687f9c61 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,7 +295,7 @@ The Brylinski Conjecture and the Hard Lefchetz Theorem, Hodge Theory on Riemanni
 28
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Facts About Representations of SL(2,R), SL(2,R) Modules of Finite H-type ([PDF]({{< baseurl >}}/resources/18117_lec28))
+Basic Facts About Representations of SL(2,R), SL(2,R) Modules of Finite H-type ({{% resource_link a470db66-6570-cf3b-be7d-ea374bb63494 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +304,7 @@ Basic Facts About Representations of SL(2,R), SL(2,R) Modules of Finite H-type (
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Hodge Theory on Kaehler Manifolds ([PDF]({{< baseurl >}}/resources/18117_lec29))
+Hodge Theory on Kaehler Manifolds ({{% resource_link e4ac52e4-81d0-a31f-2b7a-6621491d9c1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +313,7 @@ Hodge Theory on Kaehler Manifolds ([PDF]({{< baseurl >}}/resources/18117_lec29))
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Hodge Theory on Kaehler Manifolds (cont.) ([PDF]({{< baseurl >}}/resources/18117_lec30))
+Hodge Theory on Kaehler Manifolds (cont.) ({{% resource_link 67cbdc52-14c1-34c0-0688-9b0fdc6c38b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -324,7 +328,7 @@ Geometric Invariant Theory
 31
 {{< tdclose >}}
 {{< tdopen >}}
-Actions of Lie Groups on Manifolds, Hamiltonian G Actions on Symplectic Manifolds ([PDF]({{< baseurl >}}/resources/18117_lec31))
+Actions of Lie Groups on Manifolds, Hamiltonian G Actions on Symplectic Manifolds ({{% resource_link d67429b8-814e-480f-25b5-1224e490a39d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -333,7 +337,7 @@ Actions of Lie Groups on Manifolds, Hamiltonian G Actions on Symplectic Manifold
 32
 {{< tdclose >}}
 {{< tdopen >}}
-Symplectic Reduction ([PDF]({{< baseurl >}}/resources/18117_lec32))
+Symplectic Reduction ({{% resource_link a5e5379b-218a-323e-277b-6789133a73fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +346,7 @@ Symplectic Reduction ([PDF]({{< baseurl >}}/resources/18117_lec32))
 33
 {{< tdclose >}}
 {{< tdopen >}}
-Kaehler Reduction and GIT Theory ([PDF]({{< baseurl >}}/resources/18117_lec33))
+Kaehler Reduction and GIT Theory ({{% resource_link ebfbe72d-9077-30b1-7351-5fcf19dd2bf1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -351,7 +355,7 @@ Kaehler Reduction and GIT Theory ([PDF]({{< baseurl >}}/resources/18117_lec33))
 34
 {{< tdclose >}}
 {{< tdopen >}}
-Toric Varieties ([PDF]({{< baseurl >}}/resources/18117_lec34))
+Toric Varieties ({{% resource_link 4d0c3605-2273-f314-03eb-235eee2d4b14 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,7 +364,7 @@ Toric Varieties ([PDF]({{< baseurl >}}/resources/18117_lec34))
 35
 {{< tdclose >}}
 {{< tdopen >}}
-The Cohomology Groups of Toric Varieties ([PDF]({{< baseurl >}}/resources/18117_lec35))
+The Cohomology Groups of Toric Varieties ({{% resource_link 0be22417-f29e-87c5-5799-31683618d8a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -369,7 +373,7 @@ The Cohomology Groups of Toric Varieties ([PDF]({{< baseurl >}}/resources/18117_
 36
 {{< tdclose >}}
 {{< tdopen >}}
-Stanley's Proof of the McMullen Conjecture ([PDF]({{< baseurl >}}/resources/18117_lec36))
+Stanley's Proof of the McMullen Conjecture ({{% resource_link 049b2e80-0a86-29b0-5576-3f0b2d1c9947 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
